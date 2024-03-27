@@ -1,0 +1,41 @@
+C:\Users\79687\source\GOLive\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\79687\source\GOLive\lab_1\bin\Debug\lab_1.exe
+C:\Users\79687\source\GOLive\lab_1\bin\Debug\lab_1.pdb
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\GOLive.csproj.AssemblyReference.cache
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\lab_1.Screen.resources
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\GOLive.csproj.GenerateResource.cache
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\GOLive.csproj.CoreCompileInputs.cache
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\lab_1.exe
+C:\Users\79687\source\GOLive\lab_1\obj\Debug\lab_1.pdb
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\bin\Debug\lab_1.exe
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\bin\Debug\lab_1.pdb
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\GOLive.csproj.AssemblyReference.cache
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\GOLive.csproj.SuggestedBindingRedirects.cache
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\lab_1.Screen.resources
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\GOLive.csproj.GenerateResource.cache
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\GOLive.csproj.CoreCompileInputs.cache
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\lab_1.exe
+C:\Users\0airo\OneDrive\Рабочий стол\GOLive\lab_1\obj\Debug\lab_1.pdb
+E:\Лабы\Практика\Game_life\lab_1\bin\Debug\lab_1.exe.config
+E:\Лабы\Практика\Game_life\lab_1\bin\Debug\lab_1.exe
+E:\Лабы\Практика\Game_life\lab_1\bin\Debug\lab_1.pdb
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\GOLive.csproj.AssemblyReference.cache
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\lab_1.Screen.resources
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\GOLive.csproj.GenerateResource.cache
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\GOLive.csproj.CoreCompileInputs.cache
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\lab_1.exe
+E:\Лабы\Практика\Game_life\lab_1\obj\Debug\lab_1.pdb
+C:\Users\Эмиль\Desktop\Game_life\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\Эмиль\Desktop\Game_life\lab_1\bin\Debug\lab_1.exe
+C:\Users\Эмиль\Desktop\Game_life\lab_1\bin\Debug\lab_1.pdb
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\GOLive.csproj.AssemblyReference.cache
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\lab_1.Screen.resources
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\GOLive.csproj.GenerateResource.cache
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\GOLive.csproj.CoreCompileInputs.cache
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\lab_1.exe
+C:\Users\Эмиль\Desktop\Game_life\lab_1\obj\Debug\lab_1.pdb

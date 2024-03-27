@@ -1,0 +1,31 @@
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\bin\Debug\lab_1.exe
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\bin\Debug\lab_1.pdb
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.exe
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.pdb
+C:\Users\Пользователь\Desktop\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.Screen.resources
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\bin\Debug\lab_1.exe.config
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\bin\Debug\lab_1.exe
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\bin\Debug\lab_1.pdb
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.SuggestedBindingRedirects.cache
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.Screen.resources
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.exe
+G:\Практка№2 Озеров Ростислав 2-ИП\lab_1\lab_1\obj\Debug\lab_1.pdb
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\bin\Debug\lab_1.exe
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\bin\Debug\lab_1.pdb
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.Screen.resources
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.exe
+C:\Users\Пользователь\Desktop\Практика№2 ВерсияДляПодсосов\lab_1\lab_1\obj\Debug\lab_1.pdb
